@@ -1,0 +1,26 @@
+# Initial Development Testing
+
+stars_named_big_dipper.dat
+
+BigDipper-1.dat
+
+python final.py
+python final.py -names
+python final.py stars_named_big_dipper.dat
+python final.py stars_named_big_dipper.dat -names
+python final.py -names stars_named_big_dipper.dat
+
+# Final Stars and Constellation
+
+python final.py stars_all.dat
+Enter constellation filename:BigDipper.dat
+Enter constellation filename:Bootes.dat
+Enter constellation filename:Cas.dat
+Enter constellation filename:Cyg.dat
+Enter constellation filename:Gemini.dat
+Enter constellation filename:Hydra.dat
+Enter constellation filename:UrsaMajor.dat
+Enter constellation filename:UrsaMinor.dat
+Enter constellation filename:
+
+python CPSC231F21A3-Hudson.py stars_all.dat -names
